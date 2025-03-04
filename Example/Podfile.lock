@@ -1,0 +1,16 @@
+PODS:
+  - NLYYext (0.1.0)
+
+DEPENDENCIES:
+  - NLYYext (from `../`)
+
+EXTERNAL SOURCES:
+  NLYYext:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLYYext: cb007095410f1f157c2e03a6a06a5601f45fc5b2
+
+PODFILE CHECKSUM: 23b03fb8b5f1e9bdf0afa58edac7055ef8c4caec
+
+COCOAPODS: 1.16.2

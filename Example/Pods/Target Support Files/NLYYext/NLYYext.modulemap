@@ -1,0 +1,6 @@
+framework module NLYYext {
+  umbrella header "NLYYext-umbrella.h"
+
+  export *
+  module * { export * }
+}
