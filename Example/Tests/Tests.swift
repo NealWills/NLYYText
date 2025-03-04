@@ -1,5 +1,5 @@
 import XCTest
-import NLYYext
+import NLYYText
 
 class Tests: XCTestCase {
     

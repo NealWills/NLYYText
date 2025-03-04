@@ -1,0 +1,22 @@
+{
+  "name": "NLYYText",
+  "version": "0.1.0",
+  "summary": "A short description of NLYYText.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/NealWills/NLYYText",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "NealWills": "nealwills93@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/NealWills/NLYYText.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "NLYYText/Classes/**/*"
+}
