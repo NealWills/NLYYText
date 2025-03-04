@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NLYYText'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of NLYYText.'
+  s.version          = '0.9.0'
+  s.summary          = 'NL Text '
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+NL Text, a text view that can be used to display text content, and can be expanded and collapsed, and can be displayed in full screen.
                        DESC
 
   s.homepage         = 'https://github.com/NealWills/NLYYText'
