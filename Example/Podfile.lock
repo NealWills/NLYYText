@@ -1,0 +1,16 @@
+PODS:
+  - NLYYText (0.1.0)
+
+DEPENDENCIES:
+  - NLYYText (from `../`)
+
+EXTERNAL SOURCES:
+  NLYYText:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NLYYText: fc14eaa23aa2dcf6bbdbe5d79e9cb6ab1b5dcc70
+
+PODFILE CHECKSUM: cd82bbd82221936296a9f89eb6ce72b394139774
+
+COCOAPODS: 1.16.2

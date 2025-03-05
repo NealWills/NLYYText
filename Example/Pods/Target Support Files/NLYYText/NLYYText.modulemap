@@ -1,0 +1,6 @@
+framework module NLYYText {
+  umbrella header "NLYYText-umbrella.h"
+
+  export *
+  module * { export * }
+}
