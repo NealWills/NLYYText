@@ -5,6 +5,8 @@
 [![License](https://img.shields.io/cocoapods/l/NLYYText.svg?style=flat)](https://cocoapods.org/pods/NLYYText)
 [![Platform](https://img.shields.io/cocoapods/p/NLYYText.svg?style=flat)](https://cocoapods.org/pods/NLYYText)
 
+## All Copy From YYLabel !!! 
+   Maybe change something , lol 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
